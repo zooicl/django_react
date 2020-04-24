@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cae4164-049a-44bc-b1a3-02eb1f441fe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/post/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1azCJcmluTetSGNqj7GuGoRQD90" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cae4164-049a-44bc-b1a3-02eb1f441fe5" name="Default Changelist" comment="" />
+      <created>1587728964567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587728964567</updated>
+      <workItem from="1587728968946" duration="3648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1330" y="306" key="CommitChangelistDialog2" timestamp="1587732955036">
+      <screen x="0" y="23" width="3440" height="1362" />
+    </state>
+    <state x="1330" y="306" key="CommitChangelistDialog2/3440.346.1920.1057/-1280.501.1280.777/0.23.3440.1362@0.23.3440.1362" timestamp="1587732955036" />
+    <state x="1509" y="681" key="FileChooserDialogImpl" timestamp="1587729507211">
+      <screen x="0" y="23" width="3440" height="1362" />
+    </state>
+    <state x="1509" y="681" key="FileChooserDialogImpl/3440.346.1920.1057/-1280.501.1280.777/0.23.3440.1362@0.23.3440.1362" timestamp="1587729507211" />
+    <state x="1228" y="342" key="SettingsEditor" timestamp="1587729511920">
+      <screen x="0" y="23" width="3440" height="1362" />
+    </state>
+    <state x="1228" y="342" key="SettingsEditor/3440.346.1920.1057/-1280.501.1280.777/0.23.3440.1362@0.23.3440.1362" timestamp="1587729511920" />
+    <state x="1319" y="443" key="Vcs.Push.Dialog.v2" timestamp="1587732957908">
+      <screen x="0" y="23" width="3440" height="1362" />
+    </state>
+    <state x="1319" y="443" key="Vcs.Push.Dialog.v2/3440.346.1920.1057/-1280.501.1280.777/0.23.3440.1362@0.23.3440.1362" timestamp="1587732957908" />
+  </component>
+</project>
