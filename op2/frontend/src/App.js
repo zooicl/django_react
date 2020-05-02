@@ -1,26 +1,30 @@
-import React, {Component} from 'react';
-import Posts from './components/posts';
+import React from 'react'
+import Sidebar from './components/Sidebar'
+import {render} from "react-dom";
 
-class App extends Component {
-    state = {
-        posts: []
-    };
+const items = [
+  { name: 'home', label: 'Home' },
+  {
+    name: 'billing',
+    label: 'Billing',
+    items: [
+      { name: 'statements', label: 'Statements' },
+      { name: 'reports', label: 'Reports' },
+    ],
+  },
+  {
+    name: 'settings',
+    label: 'Settings',
+    items: [{ name: 'profile', label: 'Profile' }],
+  },
+]
 
-    componentDidMount() {
-        fetch('http://127.0.0.1:8000/post')
-            .then(res => res.json())
-            .then((data) => {
-                    this.setState({posts: data})
-                }
-            )
-            .catch(console.log)
-    }
-
-    render() {
-        return (
-            <Posts posts={this.state.posts}/>
-        )
-    }
+function App() {
+  return (
+    <div>
+      <Sidebar items={items} />
+    </div>
+  )
 }
 
 export default App;
